@@ -1,5 +1,5 @@
 # MAI391_Project
-# MAI391_Project: A Hybrid Weather Forecasting System for Ho Chi Minh City
+# A Hybrid Weather Forecasting System for Ho Chi Minh City
 
 ## Project Overview
 This repository contains the code and data pipeline for a hybrid weather forecasting framework designed specifically for the rapidly changing climate of Ho Chi Minh City[cite: 4, 12]. The system is built on historical meteorological data collected from the Open-Meteo Archive API[cite: 4, 14]. 
